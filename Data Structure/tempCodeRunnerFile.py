@@ -1,0 +1,1 @@
+res2=_func(l2,_even)
